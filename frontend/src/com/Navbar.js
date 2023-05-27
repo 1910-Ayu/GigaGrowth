@@ -60,7 +60,7 @@ const Navbar = () => {
       <ul>
        <li>
         <GoogleOAuthProvider
-     clientId='234583010778-62p7d1bfdvprlehsfq2247mu0ik7d4im.apps.googleusercontent.com'>
+     clientId='Google client ID'>
        <GoogleLogin
           render={(renderProps) => (
             <button
